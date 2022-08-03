@@ -1,0 +1,12 @@
+h1 {
+    font: optional;
+    color: red;
+}
+
+img {
+    background-color: red;
+}
+
+.image:hover {
+    background-color: aqua;
+}
